@@ -1,0 +1,17 @@
+{
+  "name": "minecraft",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --port 5274",
+    "build": "vite build",
+    "preview": "vite --port 4274"
+  },
+  "dependencies": {
+    "three": "^0.185.1"
+  },
+  "devDependencies": {
+    "vite": "^7.1.5"
+  }
+}
